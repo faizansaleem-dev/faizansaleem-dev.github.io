@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0face2b8.chunk.css",
+    "main.js": "/static/js/main.840bb26f.chunk.js",
+    "main.js.map": "/static/js/main.840bb26f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.26096b02.js",
+    "runtime-main.js.map": "/static/js/runtime-main.26096b02.js.map",
+    "static/js/2.714e92cc.chunk.js": "/static/js/2.714e92cc.chunk.js",
+    "static/js/2.714e92cc.chunk.js.map": "/static/js/2.714e92cc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0face2b8.chunk.css.map": "/static/css/main.0face2b8.chunk.css.map",
+    "static/js/2.714e92cc.chunk.js.LICENSE.txt": "/static/js/2.714e92cc.chunk.js.LICENSE.txt",
+    "static/media/aws-logo.876f44e4.jpg": "/static/media/aws-logo.876f44e4.jpg",
+    "static/media/conzia.ccfbaff6.png": "/static/media/conzia.ccfbaff6.png",
+    "static/media/illumidesk.6ee2869f.svg": "/static/media/illumidesk.6ee2869f.svg",
+    "static/media/mongodb.369dd398.png": "/static/media/mongodb.369dd398.png",
+    "static/media/nest-logo.96caa26b.png": "/static/media/nest-logo.96caa26b.png",
+    "static/media/node-js-logo.a2766b33.jpg": "/static/media/node-js-logo.a2766b33.jpg",
+    "static/media/omnigear.0ec7b431.png": "/static/media/omnigear.0ec7b431.png",
+    "static/media/react-logo.6bcffb56.png": "/static/media/react-logo.6bcffb56.png",
+    "static/media/unigamer.009b8f38.svg": "/static/media/unigamer.009b8f38.svg",
+    "static/media/uptok.a3288b3a.png": "/static/media/uptok.a3288b3a.png",
+    "static/media/whatsapp.94af5025.svg": "/static/media/whatsapp.94af5025.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26096b02.js",
+    "static/js/2.714e92cc.chunk.js",
+    "static/css/main.0face2b8.chunk.css",
+    "static/js/main.840bb26f.chunk.js"
+  ]
+}
