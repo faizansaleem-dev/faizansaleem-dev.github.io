@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.0face2b8.chunk.css",
-    "main.js": "/static/js/main.840bb26f.chunk.js",
-    "main.js.map": "/static/js/main.840bb26f.chunk.js.map",
+    "main.js": "/static/js/main.d6eedf9d.chunk.js",
+    "main.js.map": "/static/js/main.d6eedf9d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.26096b02.js",
     "runtime-main.js.map": "/static/js/runtime-main.26096b02.js.map",
-    "static/js/2.714e92cc.chunk.js": "/static/js/2.714e92cc.chunk.js",
-    "static/js/2.714e92cc.chunk.js.map": "/static/js/2.714e92cc.chunk.js.map",
+    "static/js/2.dd11473d.chunk.js": "/static/js/2.dd11473d.chunk.js",
+    "static/js/2.dd11473d.chunk.js.map": "/static/js/2.dd11473d.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.0face2b8.chunk.css.map": "/static/css/main.0face2b8.chunk.css.map",
-    "static/js/2.714e92cc.chunk.js.LICENSE.txt": "/static/js/2.714e92cc.chunk.js.LICENSE.txt",
+    "static/js/2.dd11473d.chunk.js.LICENSE.txt": "/static/js/2.dd11473d.chunk.js.LICENSE.txt",
     "static/media/aws-logo.876f44e4.jpg": "/static/media/aws-logo.876f44e4.jpg",
     "static/media/conzia.ccfbaff6.png": "/static/media/conzia.ccfbaff6.png",
     "static/media/illumidesk.6ee2869f.svg": "/static/media/illumidesk.6ee2869f.svg",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.26096b02.js",
-    "static/js/2.714e92cc.chunk.js",
+    "static/js/2.dd11473d.chunk.js",
     "static/css/main.0face2b8.chunk.css",
-    "static/js/main.840bb26f.chunk.js"
+    "static/js/main.d6eedf9d.chunk.js"
   ]
 }
